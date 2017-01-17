@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ztatement/z-icons/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center"><img src="http://www.z-icon.com/assets/images/z-icon-logo.svg" width=128px height=auto></p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# z-Icons
 
-### Markdown
+Die Premium-Icon-Schrift für [PhpSQLiteCMS](https://github.com/ztatement/phpsqlitecms/). Entworfen von [@ztatement](https://twitter.com/ztatement).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> **Hinweis:** Alle Markenzeichen sind Warenzeichen der jeweiligen Eigentümer. Die Verwendung dieser Marken bedeutet nicht, dass der Inhaber des Markeninhabers von ztatement bestätigt wird, und nicht umgekehrt.
 
-```markdown
-Syntax highlighted code block
+Besuchen Sie [z-icon.com](http://www.z-icon.com/) und schauen Sie sich die Suchfunktion an, die Schlüsselwörter identifiziert gemeinsamen Symbol Namen und Stile. Wenn Sie beispielsweise nach "Pfeil" suchen, rufen wir jedes Symbol auf, das als Pfeil verwendet werden könnte. Wir haben auch die Icon Klassenname für einfaches kopieren/einfügen, wenn Sie entwickeln!
 
-# Header 1
-## Header 2
-### Header 3
+Wir beabsichtigen, dieses Icon Pack mit [phpSQLiteCMS](http://demo-seite.com/path/to/phpsqlitecms/) zu verwenden, aber es ist keineswegs darauf beschränkt. Verwenden Sie es, wo immer Sie mögen, passen Sie es an, persönlich oder kommerziell. Sie sind frei es zu benutzen, lizenziert unter [MIT](http://opensource.org/licenses/MIT).
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Anfangen
 
-**Bold** and _Italic_ and `Code` text
+1. Laden Sie das Font-Pack herunter und extrahieren Sie es
+2. Kopieren Sie die `z-icons.css` in Ihr Projekt
+3. Kopieren Sie den Ordner "Fonts" in Ihr Projekt
+4. Stellen Sie sicher, dass die Font-URLs in `z-icons.css` korrekt auf den` fonts'-Pfad in Ihrem Projekt verweisen.
+5. Fügen Sie einen Verweis auf die `z-icons.css` Datei in jeder Webseite, die Sie verwenden müssen.
 
-[Link](url) and ![Image](src)
-```
+    
+vielleicht ist ihnen [bower](http://bower.io/) bekannt?
+installieren Sie es mit
+   
+    $ bower install ionicons
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+um es zu verwenden.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ztatement/z-icons/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## HTML Beispiel
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sie können auf [z-icon.com](http://www.z-icon.com/) einfach auf das Symbol klicken, das Sie verwenden möchten. Sobald Sie den CSS-Klassennamen des gewünschten Symbols kopiert haben, fügen Sie einfach das Symbol `icon` und das Symbol des Icons wie` z-home` einem HTML-Element hinzu.
+
+    <i class="icon z-home"></i>
+  besser
+
+    <span class="icon z-home"></span>
+
+
+
+## Build Anleitung
+
+Dieses Repo kommt bereits mit allen kompilierten Dateien und bereit zur Verwendung, kann aber auch die Schriften aus der Quelle benutzen. Benötigt Python, FontForge und Sass:
+
+1. Installieren Sie FontForge, das ist das Programm, das die Font-Dateien aus den SVG-Dateien erstellt:
+
+    $ brew install fontforge ttfautohint
+
+2. Installieren Sie [Sass](http://sass-lang.com/)
+
+    $ gem install sass
+
+3. Fügen Sie Dateien hinzu oder entfernen sie aus dem Ordner `src/`, die Sie von den Font-Dateien abheben möchten.
+
+4. Ändern Sie alle Einstellungen in der Datei `builder/manifest.json`. Sie können den Namen der Schriftfamilie und den CSS-Klassennamen ändern.
+
+5. Führen Sie den Befehl build aus:
+
+    python ./builder/generate.py
+
+
+
+## License
+
+z-icons ist lizenziert unter der [<img src="http://www.z-icon.com/assets/images/mit.svg" width=24px height=auto> license](https://opensource.org/licenses/MIT).
