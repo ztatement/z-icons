@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generate more at icons.mysitemyway.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="tumblr-icon"
+   class="custom-icon"
+   version="1.1"
+   viewBox="0 0 512 512"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="tumblr-2.svg"
+   width="512"
+   height="512">
+  <title
+     id="title3339">tumblr-2</title>
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>tumblr-2</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>https://creativecommons.org/licenses/by/4.0/</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>ztatement</dc:identifier>
+        <dc:relation>http://z-icon.com/</dc:relation>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview7"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="1"
+     inkscape:cx="169.0716"
+     inkscape:cy="288.57627"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="tumblr-icon" />
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1.0"
+     class="outer-shape"
+     cx="256"
+     cy="256"
+     id="circle3"
+     r="256" />
+  <path
+     class="inner-shape"
+     style="opacity:1;fill:#ffffff"
+     d="m 353.31352,110.4 -193.20677,0 C 133.53789,110.4 111.8,132.14037 111.8,158.7087 l 0,193.1826 c 0,26.58573 21.73789,48.3087 48.30675,48.3087 l 193.20677,0 C 379.87949,400.2 401.6,378.47703 401.6,351.8913 l 0,-193.1826 c -0.003,-26.56833 -21.72342,-48.30289 -48.28648,-48.30289 z M 318.8824,343.78865 c -8.53462,4.01656 -16.28098,6.84495 -23.2072,8.4736 -6.93201,1.61126 -14.42335,2.42268 -22.47109,2.42268 -9.14319,0 -14.53927,-1.14759 -21.56112,-3.44856 -7.02185,-2.31836 -13.01782,-5.62201 -17.9705,-9.86459 -4.97006,-4.28316 -8.4013,-8.83294 -10.31979,-13.64352 -1.92136,-4.81058 -2.8748,-11.79462 -2.8748,-20.94053 l 0,-70.13019 -27.16876,0 0,-28.3187 c 7.8507,-2.54438 16.96199,-6.20737 22.55225,-10.96579 5.61633,-4.77003 10.10822,-10.48477 13.49598,-17.17321 3.39646,-6.66527 5.73224,-15.17363 7.00448,-25.48451 l 28.44096,0 0,46.25115 46.23469,0 0,35.69106 -46.23759,0 0,51.27618 c 0,11.60917 -0.1507,18.29182 1.08095,21.57808 1.22006,3.27468 4.28035,6.67107 7.61306,8.63587 4.43102,2.65451 9.48224,3.98176 15.17682,3.98176 10.12852,0 20.20195,-3.29204 30.21166,-9.87619 l 0,31.54121 z"
+     id="path5"
+     inkscape:connector-curvature="0" />
+</svg>

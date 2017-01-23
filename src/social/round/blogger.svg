@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="blogger.svg">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>blogger</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>https://creativecommons.org/licenses/by/4.0/</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>ztatement</dc:identifier>
+        <dc:relation>http://z-icon.com/</dc:relation>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview16"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="1"
+     inkscape:cx="249.65142"
+     inkscape:cy="189.74576"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">blogger</title>
+  <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+  <defs
+     id="defs6" />
+  <g
+     id="Page-1"
+     sketch:type="MSPage"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="scale(8.6630368,8.5333333)">
+    <g
+       id="Blogger"
+       sketch:type="MSArtboardGroup">
+      <g
+         sketch:type="MSLayerGroup"
+         id="g10">
+        <path
+           d="M 0,30 C 0,13.431457 13.23036,0 29.550839,0 c 16.320478,0 29.550838,13.431457 29.550838,30 0,16.568543 -13.23036,30 -29.550838,30 C 13.23036,60 0,46.568543 0,30 Z m 0,0"
+           sketch:type="MSShapeGroup"
+           id="path12"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1.0" />
+        <path
+           d="m 12.905405,23.904031 0,12.032187 c 0,6.057717 4.873281,10.96222 10.878065,10.96222 l 11.709085,0 c 6.009227,0 10.865322,-4.904503 10.865322,-10.96222 l 0,-7.773273 c 0,-1.210588 -0.961757,-2.1932 -2.162779,-2.1932 l -1.836162,0 c -1.187955,0 -2.123382,-0.903414 -2.201852,-2.03958 C 40.144274,17.845851 35.274917,12.9375 29.266082,12.9375 l -5.482612,0 c -6.004784,0 -10.873818,4.908417 -10.878065,10.966531 z m 17.614382,-1.704457 c 1.186113,0 2.152989,1.035161 2.152989,2.315701 0,1.275371 -0.966876,2.315337 -2.152989,2.315337 l -6.33799,0 c -1.186047,0 -2.152989,-1.03982 -2.152989,-2.315337 -1.35e-4,-1.28054 0.966808,-2.315701 2.152989,-2.315701 l 6.33799,0 z m 6.201363,10.805754 c 1.119753,0 2.033893,1.027665 2.033893,2.305052 0,1.27731 -0.91414,2.325985 -2.033893,2.325985 l -12.671712,0 c -1.119685,0 -2.02063,-1.048675 -2.02063,-2.325985 0,-1.27731 0.901079,-2.305052 2.02063,-2.305052 l 12.671712,0 z m 0,0"
+           id="Shape"
+           sketch:type="MSShapeGroup"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>

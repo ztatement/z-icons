@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generate more at icons.mysitemyway.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="mail-icon"
+   class="custom-icon"
+   version="1.1"
+   viewBox="0 0 512 512"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="mail-icon.svg"
+   width="512"
+   height="512">
+  <title
+     id="title3357">mail</title>
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>mail</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>https://creativecommons.org/licenses/by/4.0/</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>ztatement</dc:identifier>
+        <dc:relation>http://z-icon.com/</dc:relation>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview7"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="1"
+     inkscape:cx="247.30834"
+     inkscape:cy="248.0932"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="mail-icon" />
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1.0"
+     class="outer-shape"
+     cx="256"
+     cy="256"
+     id="circle3"
+     r="256" />
+  <path
+     class="inner-shape"
+     style="opacity:1;fill:#ffffff;fill-opacity:1"
+     d="m 353.31112,110.4 -193.20484,0 C 133.53768,110.4 111.8,132.14079 111.8,158.70676 l 0,193.18937 c 0,26.58337 21.73768,48.30387 48.30628,48.30387 l 193.20484,0 C 379.87681,400.2 401.6,378.4795 401.6,351.89613 l 0,-193.18937 C 401.6,132.13789 379.87971,110.4 353.31112,110.4 Z"
+     id="path5-4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssssss" />
+  <path
+     class="inner-shape"
+     style="opacity:1;fill:#000000;fill-opacity:1.0"
+     d="m 183.79155,182.8501 145.49429,0 c 2.59563,0 5.11557,0.55641 7.42894,1.60259 L 256.53869,277.60886 176.3626,184.4498 c 2.31335,-1.04618 4.83331,-1.6026 7.42895,-1.6026 z m -18.1868,126.78743 0,-108.67494 c 0,-0.37964 0.0145,-0.75638 0.0408,-1.13312 l 53.32948,61.96212 -52.7417,52.5262 c -0.41029,-1.50984 -0.62561,-3.08056 -0.62561,-4.68026 z m 163.68109,18.1125 -145.49429,0 c -1.60626,0 -3.18342,-0.21446 -4.69948,-0.62597 l 51.75233,-51.54091 25.69429,29.85808 25.69429,-29.85517 51.75233,51.5409 c -1.51605,0.40861 -3.09322,0.62307 -4.69947,0.62307 z m 18.1868,-18.1125 c 0,1.5997 -0.21535,3.17042 -0.62563,4.68026 l -52.7417,-52.5262 53.32949,-61.96212 c 0.0232,0.37674 0.0408,0.75348 0.0408,1.13312 l 0,108.67494 z"
+     id="path5"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccscccccsccccccsccccccccccc" />
+</svg>

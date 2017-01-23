@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="apple.svg">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>apple</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>https://creativecommons.org/licenses/by/4.0/</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>ztatement</dc:identifier>
+        <dc:relation>http://z-icon.com/</dc:relation>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview16"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="1"
+     inkscape:cx="214.67508"
+     inkscape:cy="229.74576"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">apple</title>
+  <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+  <defs
+     id="defs6" />
+  <g
+     id="Page-1"
+     sketch:type="MSPage"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="matrix(8.6630367,0,0,8.5333333,-0.97277533,0)">
+    <g
+       id="Apple"
+       sketch:type="MSArtboardGroup">
+      <g
+         sketch:type="MSLayerGroup"
+         id="g10">
+        <path
+           d="m 0.11229034,30 c 0,-16.568543 13.23036066,-30 29.55083866,-30 16.320478,0 29.550839,13.431457 29.550839,30 0,16.568543 -13.230361,30 -29.550839,30 C 13.342651,60 0.11229034,46.568543 0.11229034,30 Z m 0,0"
+           sketch:type="MSShapeGroup"
+           id="path12"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1.0" />
+        <path
+           d="m 39.811065,30.325458 c -0.04799,-4.985137 3.928665,-7.375918 4.106397,-7.494683 -2.234511,-3.383547 -5.71519,-3.847067 -6.955626,-3.900641 -2.962238,-0.310382 -5.780046,1.80471 -7.283499,1.80471 -1.499567,0 -3.819454,-1.758821 -6.276179,-1.712608 -3.228738,0.04944 -6.205837,1.942715 -7.868345,4.934988 -3.354673,6.023568 -0.859078,14.947347 2.410514,19.83258 1.597649,2.391096 3.502746,5.077074 6.00405,4.981138 2.408733,-0.09967 3.319589,-1.612894 6.231827,-1.612894 2.912237,0 3.730683,1.612894 6.279899,1.563394 2.591961,-0.04983 4.234186,-2.437062 5.820787,-4.835677 1.834706,-2.774191 2.590135,-5.460038 2.634646,-5.597968 -0.05761,-0.02708 -5.054398,-2.00798 -5.104471,-7.962339 z M 35.021449,15.696034 c 1.327527,-1.666695 2.223593,-3.979052 1.979175,-6.2858763 -1.912303,0.08056 -4.230327,1.3181363 -5.602265,2.9810753 -1.231153,1.475201 -2.308661,3.829683 -2.019952,6.090377 2.134804,0.172443 4.313971,-1.122631 5.643042,-2.785576 z m 0,0"
+           id="Shape"
+           sketch:type="MSShapeGroup"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>

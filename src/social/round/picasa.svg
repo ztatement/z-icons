@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Picasa"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   xml:space="preserve"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="picasa.svg"
+   width="512"
+   height="512"><title
+   id="title3339">picasa</title><metadata
+   id="metadata9"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>picasa</dc:title><dc:creator><cc:Agent><dc:title>Thomas Boettcher</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>https://creativecommons.org/licenses/by/4.0/</dc:title></cc:Agent></dc:rights><dc:publisher><cc:Agent><dc:title>Thomas Boettcher</dc:title></cc:Agent></dc:publisher><dc:identifier>ztatement</dc:identifier><dc:relation>http://z-icon.com/</dc:relation></cc:Work></rdf:RDF></metadata><defs
+   id="defs7" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1027"
+   id="namedview5"
+   showgrid="false"
+   borderlayer="true"
+   inkscape:showpageshadow="false"
+   inkscape:zoom="1"
+   inkscape:cx="284.49042"
+   inkscape:cy="249.57627"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Picasa" />
+<circle
+   style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.01571751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="path3337"
+   cx="256"
+   cy="256"
+   r="253.99214" /><path
+   d="m 248.03994,68.263039 c 38.9477,-1.717429 74.45885,8.587142 98.51478,22.899042 1.71828,37.783429 2.29104,76.139319 3.43658,113.922749 0,1.14497 -3.43658,-1.71742 -4.58209,-2.86238 -36.08391,-30.34124 -72.74057,-61.82742 -109.39723,-92.74113 -12.60075,-10.877041 -26.34699,-20.609145 -37.8022,-32.058663 14.89178,-5.152284 30.35631,-8.014664 49.83016,-9.159618 z M 71.629738,292.67369 C 57.883489,219.96921 85.948749,161.57664 122.60541,123.79323 135.7789,110.62628 152.38895,98.031789 168.42624,90.589613 l 72.16781,61.827417 c -53.83947,45.79809 -109.39723,91.0237 -163.809469,137.39427 -1.718281,0.57247 -3.436562,2.2899 -5.154843,2.86239 z m 75.031612,116.21264 c -14.31902,-9.15961 -28.06526,-22.89904 -38.37495,-36.06599 -10.309682,-12.59448 -18.328329,-26.3339 -25.201454,-43.50818 -1.145521,-2.28992 -2.863802,-5.1523 -2.863802,-6.29724 0,-2.28991 5.154843,-5.72476 8.018645,-8.01467 8.591407,-7.44219 17.182801,-15.45686 25.201451,-22.32656 12.60073,-10.87705 23.48318,-20.60915 34.36562,-30.34125 1.71828,48.08801 1.14553,98.46589 2.29104,147.12637 -1.14551,1.71744 -2.8638,0 -3.43655,-0.57248 z M 333.954,427.20558 c -20.04661,9.15961 -46.96636,16.02933 -75.0316,16.6018 -29.2108,1.14495 -54.98501,-6.29724 -76.17715,-15.45685 0,-29.76877 0.57275,-59.53752 1.14552,-89.30628 80.75923,0 160.37292,-0.57248 241.70489,-0.57248 -19.47386,38.92838 -50.40292,69.84209 -91.64166,88.73381 z m 100.80583,-111.06038 -58.42156,0 c -0.57276,-68.12467 -1.14553,-136.82179 -1.71828,-204.94645 0,-0.57247 0.57275,-0.57247 0.57275,-0.57247 26.34698,21.18161 46.96635,49.23295 58.99432,84.72646 5.72761,17.17429 9.73694,38.35591 9.73694,60.68247 0,21.18163 -2.8638,42.36324 -9.16417,60.10999 z"
+   id="path3"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ccccccccccccccccsccccccccccccccccsc"
+   style="fill:#ffffff;fill-opacity:1" />
+</svg>

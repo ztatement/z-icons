@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dropbox.svg">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>dropbox</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>https://creativecommons.org/licenses/by/4.0/</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>ztatement</dc:identifier>
+        <dc:relation>http://z-icon.com/</dc:relation>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview18"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="1"
+     inkscape:cx="188.61943"
+     inkscape:cy="228.74576"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">dropbox</title>
+  <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+  <defs
+     id="defs6" />
+  <g
+     id="Page-1"
+     sketch:type="MSPage"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="matrix(8.6630368,0,0,8.5333333,-5.8366522,0)">
+    <g
+       id="Dropbox"
+       sketch:type="MSArtboardGroup">
+      <g
+         sketch:type="MSLayerGroup"
+         id="g10">
+        <path
+           d="m 0.67374206,30 c 0,-16.568543 13.23035994,-30 29.55083894,-30 16.320478,0 29.550838,13.431457 29.550838,30 0,16.568543 -13.23036,30 -29.550838,30 C 13.904102,60 0.67374206,46.568543 0.67374206,30 Z m 0,0"
+           sketch:type="MSShapeGroup"
+           id="path12"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1.0" />
+        <g
+           id="g3357" />
+        <g
+           id="g3360">
+          <g
+             id="g3364">
+            <g
+               id="g3368"
+               transform="matrix(1.2378408,0,0,1.2680774,-7.0154902,-9.3064921)">
+              <g
+                 id="g3343"
+                 transform="matrix(1.0171278,0,0,1.0884382,-0.65756067,-2.7446646)">
+                <path
+                   d="m 40.464344,38.511318 0,1.685946 -10.2635,6.758368 -10.036112,-6.804441 0,-1.589214 3.001703,1.805614 0.334137,0.200312 0.308377,-0.239402 6.48401,-5.050926 6.481785,5.050926 0.31067,0.240976 0.334946,-0.204145 3.043984,-1.854014 z m 0,0"
+                   id="Path"
+                   sketch:type="MSShapeGroup"
+                   inkscape:connector-curvature="0"
+                   style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1" />
+                <path
+                   d="m 37.284278,15.044368 -6.991319,5.951849 -6.834062,-5.951849 -10.46378,6.919452 7.205894,5.565055 -7.205894,5.565876 7.169615,4.311223 3.294233,1.980595 6.834061,-5.323324 6.831837,5.323324 3.339481,-2.034335 6.989701,-4.257483 -6.674513,-5.807537 6.674513,-5.646453 -10.169767,-6.596393 z m 2.900349,12.017204 -9.960384,6.700726 -9.898478,-6.330909 9.988436,-6.126763 9.870426,5.756946 z m 0,0"
+                   id="path15"
+                   sketch:type="MSShapeGroup"
+                   inkscape:connector-curvature="0"
+                   style="fill:#ffffff" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

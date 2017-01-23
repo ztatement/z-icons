@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generate more at icons.mysitemyway.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="deviantart-icon"
+   class="custom-icon"
+   version="1.1"
+   viewBox="0 0 512 512"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="deviantart.svg"
+   width="512"
+   height="512">
+  <title
+     id="title3350">deviantart</title>
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>deviantart</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>https://creativecommons.org/licenses/by/4.0/</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>ztatement</dc:identifier>
+        <dc:relation>http://z-icon.com/</dc:relation>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview7"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="1"
+     inkscape:cx="109.24385"
+     inkscape:cy="247.57627"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="deviantart-icon" />
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1.0"
+     class="outer-shape"
+     cx="256"
+     cy="256"
+     id="circle3"
+     r="256" />
+  <path
+     class="inner-shape"
+     style="opacity:1;fill:#ffffff"
+     d="m 290.65177,204.8941 c -13.04049,-1.1115 -28.08167,0.0201 -45.5066,4.35619 L 285.33367,314.81601 445,250.92331 c -1.72026,-5.96609 -4.23739,-11.79263 -7.56847,-17.4248 -16.52205,-27.88172 -52.35003,-52.74796 -91.37911,-63.96745 l 0,-0.01 c -38.29036,-13.0786 -79.75793,-12.53035 -122.22413,-3.18492 -1.53216,0.33395 -3.05406,0.6928 -4.56912,1.06162 l -14.11779,-38.1096 c -13.74158,2.67154 -26.65553,6.83834 -38.61186,12.40074 l 13.44745,40.98022 c -21.96326,12.40073 -39.98669,30.05982 -52.98954,51.31752 -21.44686,35.56236 -29.92163,80.26582 -19.62058,123.80292 2.07253,8.7822 4.87351,17.11583 8.32771,24.9211 L 275.36092,318.80337 231.02397,199.1373 c 1.5219,-0.42862 3.07117,-0.86226 4.65121,-1.27593 71.70041,-18.64098 110.9176,10.15283 132.39523,40.80577 L 313.4461,257.96602 290.64835,204.8941 Z M 161.35506,311.68093 c -4.92823,-32.78121 -1.00548,-69.37532 30.19522,-93.74315 l 24.42567,74.44426 -54.62089,19.29889 z"
+     id="path5"
+     inkscape:connector-curvature="0" />
+</svg>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="wordpress.svg">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>wordpress</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>https://creativecommons.org/licenses/by/4.0/</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>ztatement</dc:identifier>
+        <dc:relation>http://z-icon.com/</dc:relation>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview16"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:zoom="1"
+     inkscape:cx="235.66088"
+     inkscape:cy="229.74576"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">wordpress</title>
+  <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+  <defs
+     id="defs6" />
+  <g
+     id="Page-1"
+     sketch:type="MSPage"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="scale(8.6630368,8.5333333)">
+    <g
+       id="WordPress"
+       sketch:type="MSArtboardGroup">
+      <g
+         sketch:type="MSLayerGroup"
+         id="g10">
+        <path
+           d="M 0,30 C 0,13.431457 13.23036,0 29.550839,0 c 16.320478,0 29.550838,13.431457 29.550838,30 0,16.568543 -13.23036,30 -29.550838,30 C 13.23036,60 0,46.568543 0,30 Z m 0,0"
+           sketch:type="MSShapeGroup"
+           id="path12"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1.0" />
+        <path
+           d="M 29.550839,52.022333 C 17.572395,52.022333 7.8582247,42.160512 7.8582247,30 c 0,-12.160512 9.7141703,-22.0223333 21.6926143,-22.0223333 11.978443,0 21.692614,9.8618213 21.692614,22.0223333 0,12.160512 -9.714171,22.022333 -21.692614,22.022333 z m 9.1e-5,-40.958718 c -6.560498,0 -12.330239,3.440676 -15.65539,8.640765 2.118933,-0.02209 4.393714,-0.04666 6.659828,-0.16886 0.09765,-0.0052 0.178038,0.08493 0.178038,0.188902 l 0,1.133544 c 0,0.104002 -0.08009,0.188936 -0.178038,0.188936 l -2.159871,0 c -0.241496,0 -0.34318,0.148013 -0.25846,0.401403 l 6.774209,20.258453 4.121922,-12.633927 -2.740411,-7.607395 c -0.0994,-0.275917 -0.217455,-0.418558 -0.639105,-0.418558 l -1.895521,0 c -0.09798,0 -0.178071,-0.08504 -0.178071,-0.188936 l 0,-1.133544 c 0,-0.103901 0.08032,-0.193266 0.178071,-0.188901 3.527339,0.159561 7.076456,0.158486 10.646572,0 0.09782,-0.0043 0.178071,0.08493 0.178071,0.188901 l 0,1.133544 c 0,0.104003 -0.08009,0.188936 -0.178071,0.188936 l -1.885206,0 c -0.373669,0 -0.494036,0.175372 -0.390798,0.484054 l 6.668353,19.941507 2.448453,-7.565972 c 2.960313,-9.147213 -2.532772,-10.11519 -2.396201,-14.662995 0.06749,-2.24943 1.691822,-3.231407 3.31923,-3.187631 -3.321322,-3.099266 -7.751808,-4.992279 -12.617604,-4.992226 z m 8.952173,35.55145 5.818473,-16.72711 c 0.90067,-2.5891 1.737229,-6.087555 1.634976,-8.904759 1.433301,2.680978 2.247198,5.752626 2.247198,9.016718 0,7.163056 -3.920374,13.397854 -9.700647,16.615151 z m -14.376745,1.506368 5.746324,-16.717986 5.923497,16.443248 c -1.952728,0.70478 -4.054661,1.08963 -6.245315,1.08963 -1.886862,0 -3.707747,-0.285719 -5.424506,-0.814892 z M 12.574034,22.147021 21.569563,47.118137 c -6.307924,-3.037054 -10.671577,-9.560931 -10.671577,-17.11818 0,-2.801267 0.60025,-5.460459 1.676048,-7.852936 z m 16.976805,28.566045 c -11.266271,0 -20.4029912,-9.275595 -20.4029912,-20.713109 0,-11.437513 9.1367202,-20.713108 20.4029912,-20.713108 11.26627,0 20.40299,9.275595 20.40299,20.713108 0,11.437514 -9.13672,20.713109 -20.40299,20.713109 z m 0,0"
+           id="Path"
+           sketch:type="MSShapeGroup"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>

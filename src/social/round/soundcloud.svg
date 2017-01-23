@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="soundcloud.svg">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>soundcloud</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>https://creativecommons.org/licenses/by/4.0/</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>ztatement</dc:identifier>
+        <dc:relation>http://z-icon.com/</dc:relation>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview16"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:zoom="1"
+     inkscape:cx="169.03268"
+     inkscape:cy="268.74576"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">soundcloud</title>
+  <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+  <defs
+     id="defs6" />
+  <g
+     id="Page-1"
+     sketch:type="MSPage"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="matrix(8.6630367,0,0,8.5333333,-6.8094276,0)">
+    <g
+       id="Soundcloud"
+       sketch:type="MSArtboardGroup">
+      <g
+         sketch:type="MSLayerGroup"
+         id="g10">
+        <path
+           d="m 0.78603241,30 c 0,-16.568543 13.23036059,-30 29.55083859,-30 16.320478,0 29.550839,13.431457 29.550839,30 0,16.568543 -13.230361,30 -29.550839,30 C 14.016393,60 0.78603241,46.568543 0.78603241,30 Z m 0,0"
+           sketch:type="MSShapeGroup"
+           id="path12"
+           style="fill:#000000;fill-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 9.1354674,31.49541 c -0.090494,0 -0.1623563,0.07658 -0.1740505,0.185972 l -0.3171701,2.636399 0.3171701,2.591157 c 0.011775,0.109027 0.08347,0.185137 0.1740505,0.185137 0.087705,0 0.1591361,-0.07537 0.1730325,-0.184024 L 9.6845634,34.317781 9.3084999,31.68064 C 9.2951089,31.571986 9.2227449,31.49541 9.1354674,31.49541 Z m 2.5563446,-1.632197 c -0.09194,0 -0.168034,0.08085 -0.180574,0.191534 0,9.53e-4 -0.426566,4.262663 -0.426566,4.262663 l 0.426566,4.16838 c 0.01203,0.111802 0.08813,0.19246 0.180574,0.19246 0.09066,0 0.165068,-0.0788 0.179982,-0.191255 l 0.485204,-4.169585 -0.484612,-4.262663 c -0.0149,-0.113289 -0.08914,-0.191534 -0.180574,-0.191534 z m 2.470592,-1.01477 c -0.134393,0 -0.243958,0.117647 -0.254804,0.274413 l -0.382417,5.196222 0.382417,5.027403 c 0.01024,0.155655 0.120411,0.273208 0.254804,0.273208 0.132867,0 0.242602,-0.117738 0.25438,-0.273208 l 0.434955,-5.027403 -0.434955,-5.197334 c -0.0117,-0.155747 -0.121344,-0.273301 -0.25438,-0.273301 z m 2.455593,0.336063 c -0.156847,0 -0.281835,0.135352 -0.291665,0.314554 l -0.360555,4.820112 0.360555,5.068843 c 0.01046,0.17883 0.134901,0.31409 0.291665,0.31409 0.154475,0 0.279463,-0.135352 0.291071,-0.313627 l 0.409704,-5.069306 -0.409704,-4.822336 c -0.01102,-0.178089 -0.136172,-0.31233 -0.291071,-0.31233 z m 2.455932,-3.061832 c -0.174897,0 -0.319543,0.156769 -0.327847,0.355997 l -0.33988,7.842447 0.33988,5.068379 c 0.0088,0.198116 0.175236,0.354233 0.350303,0.354233 0.174134,0 0.35098,-0.156859 0.35098,-0.355436 l 0,0.0018 0.361574,-5.068934 -0.395215,-7.842447 c -0.01055,-0.199136 -0.16566,-0.355997 -0.339795,-0.355997 l 0,0 z m 2.455847,-1.832443 c -0.196759,0 -0.357251,0.17401 -0.365894,0.396043 0,6.5e-4 -0.317086,9.636421 -0.317086,9.636421 l 0.317764,5.036393 c 0.008,0.220087 0.168457,0.394284 0.365301,0.394284 0.195064,0 0.35598,-0.174197 0.365302,-0.396137 l 0.358437,-5.03454 -0.358437,-9.636421 c -0.0097,-0.222402 -0.170322,-0.396043 -0.365387,-0.396043 z m 2.470337,-1.23736 c -0.239805,0 -0.433006,0.209703 -0.43953,0.478275 l -0.273362,10.792568 0.273701,4.953886 c 0.0067,0.265513 0.241839,0.475401 0.481136,0.475401 0.238873,0 0.481391,-0.209888 0.481391,-0.476976 l 0,-3.72e-4 0.265566,-4.951662 -0.328695,-10.792938 c -0.0077,-0.26783 -0.221842,-0.478182 -0.460207,-0.478182 z m 2.471439,0.57979 c -0.282259,0 -0.508591,0.245581 -0.5141,0.560135 l -0.229551,10.133051 0.229551,4.876011 c 0.0055,0.310476 0.23718,0.555964 0.519862,0.555964 0.281835,0 0.519014,-0.245117 0.519014,-0.5593 l 0,0.0041 0.251839,-4.876105 -0.260398,-10.134349 c -0.0068,-0.31372 -0.234383,-0.559393 -0.516217,-0.559393 l 0,0 z m 2.525841,-3.097708 c -0.320476,0 -0.5835,0.287761 -0.588331,0.641437 l -0.240651,13.050459 0.241331,4.874516 c 0.0042,0.34904 0.296239,0.636154 0.61663,0.636154 0.319712,0 0.616545,-0.287299 0.616545,-0.641346 l 0,0.0056 0.232774,-4.773384 -0.276413,-13.153071 c -0.0047,-0.352657 -0.282174,-0.64042 -0.601885,-0.64042 l 0,0 z m 17.695199,7.567756 c -0.731025,0 -1.428751,0.161865 -2.063939,0.453338 -0.424701,-5.261767 -4.457758,-9.389078 -9.377165,-9.389078 -1.203858,0 -2.371785,0.259117 -3.408035,0.697712 -0.40267,0.170396 -0.508422,0.346074 -0.508422,0.686308 l 0,18.529703 c 0,0.357292 0.252263,0.654974 0.570789,0.689923 0.01357,0.0017 14.693731,0.0098 14.78889,0.0098 2.946899,0 5.334785,-2.61415 5.334785,-5.838588 0,-3.224439 -2.390176,-5.839051 -5.336903,-5.839051 l 0,0 z"
+           id="Shape"
+           sketch:type="MSShapeGroup"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff"
+           sodipodi:nodetypes="ccccscccccccccscccccccccscccccccccscccccccccscccccccscccscccssccccsscccccccccscccccccccccscccccccccscsscssccc" />
+      </g>
+    </g>
+  </g>
+</svg>

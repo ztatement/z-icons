@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generate more at icons.mysitemyway.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="linkedin-icon"
+   class="custom-icon"
+   version="1.1"
+   viewBox="0 0 512 512"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="linkedin-2.svg"
+   width="512"
+   height="512">
+  <title
+     id="title3339">linkedin</title>
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>linkedin</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>https://creativecommons.org/licenses/by/4.0/</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>ztatement</dc:identifier>
+        <dc:relation>http://z-icon.com/</dc:relation>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview7"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="1"
+     inkscape:cx="159.34317"
+     inkscape:cy="248.57627"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="linkedin-icon" />
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1.0"
+     class="outer-shape"
+     cx="256"
+     cy="256"
+     id="circle3"
+     r="256" />
+  <path
+     class="inner-shape"
+     style="opacity:1;fill:#ffffff"
+     d="m 352.92228,110.4 -192.44458,0 c -26.77173,0 -48.6777,21.90602 -48.6777,48.67772 l 0,192.44461 c 0,26.77169 21.90597,48.67767 48.6777,48.67767 l 192.44458,0 C 379.69402,400.2 401.6,378.29402 401.6,351.52233 l 0,-192.44461 C 401.6,132.30602 379.69402,110.4 352.92228,110.4 Z m -132.44729,235.46249 -36.225,0 0,-126.78748 36.225,0 0,126.78748 z M 202.3625,200.96254 c -10.0039,0 -18.11251,-8.10869 -18.11251,-18.11257 0,-10.00387 8.10861,-18.11247 18.11251,-18.11247 10.00389,0 18.11249,8.1086 18.11249,18.11247 0,10.00388 -8.1086,18.11257 -18.11249,18.11257 z m 144.89999,144.89995 -36.225,0 0,-72.44998 c 0,-10.00392 -8.10859,-18.1125 -18.1125,-18.1125 -10.00389,0 -18.1125,8.10858 -18.1125,18.1125 l 0,72.44998 -36.22499,0 0,-126.78748 36.22499,0 0,22.49132 c 7.47104,-10.26174 18.89206,-22.49132 31.69832,-22.49132 22.50878,0 40.75458,20.27439 40.75458,45.28131 l 0,81.50617 z"
+     id="path5"
+     inkscape:connector-curvature="0" />
+</svg>

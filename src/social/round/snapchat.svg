@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   xml:space="preserve"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="snapchat.svg"
+   width="512"
+   height="512"><title
+   id="title3339">snapchat</title><metadata
+   id="metadata11"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>snapchat</dc:title><dc:creator><cc:Agent><dc:title>Thomas Boettcher</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>https://creativecommons.org/licenses/by/4.0/</dc:title></cc:Agent></dc:rights><dc:publisher><cc:Agent><dc:title>Thomas Boettcher</dc:title></cc:Agent></dc:publisher><dc:identifier>ztatement</dc:identifier><dc:relation>http://z-icon.com/</dc:relation></cc:Work></rdf:RDF></metadata><defs
+   id="defs9" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1027"
+   id="namedview7"
+   showgrid="false"
+   borderlayer="true"
+   inkscape:showpageshadow="false"
+   inkscape:zoom="1"
+   inkscape:cx="338.69169"
+   inkscape:cy="249.57627"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<circle
+   style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="path3341"
+   cx="256"
+   cy="256"
+   r="256" /><g
+   id="Layer_1_1_"
+   transform="translate(0,412)">
+</g>
+<g
+   id="Layer_2"
+   transform="matrix(5.1124804,0,0,5.1113165,0.13761463,0.70942961)">
+	<path
+   d="m 75.199143,71.101824 c -1.42247,0.189661 -0.189662,4.931226 -2.086289,4.836394 -1.896625,-0.09483 -7.776164,-2.275951 -10.336609,-0.09483 -2.275951,1.991458 -5.500214,5.12089 -10.621104,5.784708 -0.189662,0.09483 -1.706962,0.09483 -2.086288,0 -5.120889,-0.663818 -8.345152,-3.888081 -10.621103,-5.784708 -2.560444,-2.181118 -8.439983,0 -10.33661,0.09483 -1.896625,0.09483 -0.663818,-4.646733 -2.086288,-4.836394 -3.79325,-0.474157 -12.138402,-3.224265 -7.207176,-4.836397 7.017515,-2.27595 10.905597,-7.112345 12.707391,-11.000427 1.612132,-3.413926 0.948313,-5.689878 -0.75865,-6.448528 -1.896626,-0.853481 -7.207178,-1.043144 -6.258864,-4.551902 1.043144,-3.603587 7.017514,-0.568987 7.017514,-0.568987 0,0 1.612132,0.379326 1.612132,-1.422468 0,-4.551902 -2.086289,-13.750536 3.224264,-19.914569 3.698418,-4.267408 9.008971,-5.689878 11.759078,-6.069203 l 0,0 0.189663,0 c 0.948312,-0.189662 1.801793,-0.189662 1.801793,-0.189662 0,0 0.853482,0 1.801795,0.189662 l 0.189663,0 0,0 c 2.750106,0.474157 8.060658,1.801795 11.759078,6.069203 5.310551,6.164033 3.224263,15.362667 3.224263,19.914569 0,1.896625 1.612133,1.422468 1.612133,1.422468 0,0 6.069201,-3.0346 7.017515,0.568987 0.948312,3.508758 -4.362239,3.698422 -6.258866,4.551902 -1.706962,0.75865 -2.370782,3.034602 -0.758648,6.448528 1.896625,3.888082 5.689876,8.724477 12.707392,11.000427 4.836394,1.612132 -3.413928,4.36224 -7.207178,4.836397 z"
+   id="path5"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="csccccsccccccscccccccccscccccc"
+   style="fill:#ffffff;fill-opacity:1" />
+</g>
+</svg>

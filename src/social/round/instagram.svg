@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generate more at icons.mysitemyway.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="instagram-icon"
+   class="custom-icon"
+   version="1.1"
+   viewBox="0 0 512 512"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="instagram.svg"
+   width="512"
+   height="512">
+  <title
+     id="title3339">instagram</title>
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>instagram</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>https://creativecommons.org/licenses/by/4.0/</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>ztatement</dc:identifier>
+        <dc:relation>http://z-icon.com/</dc:relation>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview7"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="1"
+     inkscape:cx="148.22496"
+     inkscape:cy="248.57627"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="instagram-icon" />
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1.0"
+     class="outer-shape"
+     cx="256"
+     cy="256"
+     id="circle3"
+     r="256" />
+  <path
+     class="inner-shape"
+     style="opacity:1;fill:#ffffff"
+     d="m 369.72211,110.4 -226.04422,0 C 126.07272,110.4 111.8,124.67386 111.8,142.2813 l 0,226.04031 c 0,17.60745 14.27272,31.87839 31.87789,31.87839 l 226.04422,0 C 387.32728,400.2 401.6,385.92906 401.6,368.32161 l 0,-226.04031 C 401.59671,124.67386 387.32436,110.4 369.72211,110.4 Z m -113.18316,89.25771 c 30.63919,0 55.4832,24.83949 55.4832,55.48277 0,30.64038 -24.84108,55.47986 -55.4832,55.47986 -30.64213,0 -55.48322,-24.83948 -55.48322,-55.47986 0,-30.64036 24.84109,-55.48277 55.48322,-55.48277 z m 111.15089,155.04565 c 0,6.40083 -5.18608,11.59001 -11.59035,11.59001 l -198.98638,0 c -6.40135,0 -11.59036,-5.18918 -11.59036,-11.59001 l 0,-121.41998 25.17198,0 c -1.74236,6.94814 -2.67357,14.21531 -2.67357,21.70492 0,49.1229 39.82246,88.94747 88.94825,88.94747 49.12578,0 88.94825,-39.82164 88.94825,-88.94747 0,-7.48961 -0.93121,-14.75678 -2.67357,-21.70492 l 24.44869,0 0,121.41998 z m 0.7438,-167.05127 c 0,6.40085 -5.18901,11.59003 -11.59329,11.59003 l -32.90865,0 c -6.40134,0 -11.59036,-5.18918 -11.59036,-11.59003 l 0,-32.91152 c 0,-6.40085 5.18902,-11.59001 11.59036,-11.59001 l 32.90865,0 c 6.40428,0 11.59329,5.18916 11.59329,11.59001 l 0,32.91152 z"
+     id="path5"
+     inkscape:connector-curvature="0" />
+</svg>

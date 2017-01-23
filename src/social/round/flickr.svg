@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="flickr.svg">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>flickr</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>https://creativecommons.org/licenses/by/4.0/</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Thomas Boettcher</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>ztatement</dc:identifier>
+        <dc:relation>http://z-icon.com/</dc:relation>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview18"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:zoom="1"
+     inkscape:cx="249.65142"
+     inkscape:cy="229.74576"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">flickr</title>
+  <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+  <defs
+     id="defs6" />
+  <g
+     id="Page-1"
+     sketch:type="MSPage"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="matrix(8.6630368,0,0,8.6755556,-2.9183261,3e-6)">
+    <g
+       id="Flickr"
+       sketch:type="MSArtboardGroup">
+      <g
+         sketch:type="MSLayerGroup"
+         id="g10">
+        <path
+           d="M 0.33687103,29.508197 C 0.33687103,13.211269 13.567231,0 29.88771,0 c 16.320478,0 29.550838,13.211269 29.550838,29.508197 0,16.296928 -13.23036,29.508196 -29.550838,29.508196 -16.320479,0 -29.55083897,-13.211268 -29.55083897,-29.508196 z m 0,0"
+           sketch:type="MSShapeGroup"
+           id="path12"
+           style="fill:#000000;fill-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 22.499973,23.606557 c -3.53621,0 -6.402655,2.862245 -6.402655,6.39339 0,3.531198 2.866445,6.393443 6.402655,6.393496 3.536263,0 6.402709,-2.862298 6.402709,-6.393496 0,-3.531145 -2.866393,-6.393443 -6.402709,-6.39339 z m 0,0"
+           id="Path"
+           sketch:type="MSShapeGroup"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="m 31.857766,29.999947 c 0,3.531198 2.866445,6.393496 6.402655,6.393496 3.536316,0 6.402708,-2.862298 6.402708,-6.393496 0,-3.531093 -2.866445,-6.39339 -6.402708,-6.39339 -3.536263,0 -6.402655,2.862297 -6.402655,6.39339 z M 33.8264,30 c 0,-2.444539 1.98169,-4.42623 4.42623,-4.42623 2.444539,0 4.426229,1.981691 4.426229,4.42623 0,2.444539 -1.98169,4.426229 -4.426229,4.426229 -2.44454,0 -4.42623,-1.98169 -4.42623,-4.426229 z m 0,0"
+           id="path15"
+           sketch:type="MSShapeGroup"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>
