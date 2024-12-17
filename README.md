@@ -1,5 +1,5 @@
 
-<p align="center"><img src="http://www.z-icon.com/assets/images/z-icon-logo.svg" width=128px height=auto></p>
+<p align="center"><img src="https://z-icon.demo-seite.com/assets/images/z-icon-logo.svg" width=128px height=auto></p>
 
 # z-Icons
 
@@ -7,7 +7,7 @@ Die Premium-Icon-Schrift für [PhpSQLiteCMS](https://github.com/ztatement/phpsql
 
 > **Hinweis:** Alle Markenzeichen sind Warenzeichen der jeweiligen Eigentümer. Die Verwendung dieser Marken bedeutet nicht, dass der Inhaber des Markeninhabers von ztatement bestätigt wird, und nicht umgekehrt.
 
-Besuchen Sie [z-icon.com](http://www.z-icon.com/) und schauen Sie sich die Suchfunktion an, die Schlüsselwörter identifiziert gemeinsamen Symbol Namen und Stile. Wenn Sie beispielsweise nach "Pfeil" suchen, rufen wir jedes Symbol auf, das als Pfeil verwendet werden könnte. Wir haben auch die Icon Klassenname für einfaches kopieren/einfügen, wenn Sie entwickeln!
+Besuchen Sie [z-icon](https://z-icon.demo-seite.com/) und schauen Sie sich die Suchfunktion an, die Schlüsselwörter identifiziert gemeinsamen Symbol Namen und Stile. Wenn Sie beispielsweise nach "Pfeil" suchen, rufen wir jedes Symbol auf, das als Pfeil verwendet werden könnte. Wir haben auch die Icon Klassenname für einfaches kopieren/einfügen, wenn Sie entwickeln!
 
 Wir beabsichtigen, dieses Icon Pack mit [phpSQLiteCMS](http://demo-seite.com/path/to/phpsqlitecms/) zu verwenden, aber es ist keineswegs darauf beschränkt. Verwenden Sie es, wo immer Sie mögen, passen Sie es an, persönlich oder kommerziell. Sie sind frei es zu benutzen, lizenziert unter [MIT](http://opensource.org/licenses/MIT).
 
@@ -32,7 +32,7 @@ um es zu verwenden.
 
 ## HTML Beispiel
 
-Sie können auf [z-icon.com](http://www.z-icon.com/) einfach auf das Symbol klicken, das Sie verwenden möchten. Sobald Sie den CSS-Klassennamen des gewünschten Symbols kopiert haben, fügen Sie einfach das Symbol `icon` und das Symbol des Icons wie` z-home` einem HTML-Element hinzu.
+Sie können auf [z-icon](https://z-icon.demo-seite.com) einfach auf das Symbol klicken, das Sie verwenden möchten. Sobald Sie den CSS-Klassennamen des gewünschten Symbols kopiert haben, fügen Sie einfach das Symbol `icon` und das Symbol des Icons wie` z-home` einem HTML-Element hinzu.
 
     <i class="icon z-home"></i>
   besser
